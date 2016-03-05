@@ -1,6 +1,6 @@
 # Beautiful and scannable provisioning output with Vagrant Provisioning Shell Function Helper
 
-Simply include the `exe ()` function from `provisioning.sh` to enjoy beautiful and scannable output from your Vagrant
+Simply include the `exe ()` function from `provision.sh` to enjoy beautiful and scannable output from your Vagrant
 bash shell provisioning script.
 
 ## The problem
