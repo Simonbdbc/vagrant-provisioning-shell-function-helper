@@ -20,7 +20,7 @@ composer command both output status messages to `stderr` when there is no failur
 
 ## The solution
 
-The `exe ()` function contained in `provisioning.sh` aims to solve the issue by suppressing the output of a provisioning
+The `exe ()` function contained in `provision.sh` aims to solve the issue by suppressing the output of a provisioning
 shell script command unless a command returns a non zero exit status. In the case that a command returns an error code,
 the captured output of the command is output to `stderr`, showing red in vagrant.
 
