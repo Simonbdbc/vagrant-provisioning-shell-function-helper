@@ -52,7 +52,7 @@ The function accepts more complex commands:
 
 If you find an edge case that does not work with the function, please feel free to submit a pull request with a fix.
 
-# Compatibility
+## Compatibility
 
 Tested with bash, may be POSIX compliant but remains untested. Pull requests welcome to fix any issues.
 
